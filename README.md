@@ -67,6 +67,22 @@ http://api.themoviedb.org/3/movie/328111?api_key=328c283cd27bd1877d9080ccb1604c9
 We expect unit tests for the main functionalities only.
 You can use third party libraries.
 
+## AI Prompts / Tools Used
+Please describe how you used AI in this project (if any):
+
+- **Tool used**: ChatGPT / Copilot / Cursor
+- **Prompt example**:
+  > “Build a Next.js component that fetches movies from TMDb and supports infinite scrolling using React hooks.”
+
+- **Which part AI helped you the most?**
+  > Helped generate base layout, setup fetch logic, and design responsive card grid.
+
+- **Any AI-generated code that you modified?**
+  > Yes. Cleaned up code structure, added error handling, and typed API responses manually.
+
+## Time Taken
+> Total time spent: ~1.5 hours
+
 ### Code Repo
 Please use this repo for your commits.
 
